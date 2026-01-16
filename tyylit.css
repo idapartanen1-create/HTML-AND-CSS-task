@@ -1,0 +1,76 @@
+h1 
+{
+    font-family:Impact;
+    color:#F77100;
+    margin: top 36px;
+}
+
+p {
+    font-family:'Times New Roman', Times, serif;
+    color:black;
+}
+a, a:visited, a:active{
+    color:#E75407;
+}
+a:hover {
+    text-decoration: none;
+}
+
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 16px;
+    color: rgb(53, 49, 49);
+   background-image: url(images/green.avif);
+    background-size: cover;
+
+}
+
+
+.container {
+    width: 900px;
+    margin: 16px auto 16px auto; 
+}
+
+article {
+    background-color:#EEC1A0;
+    padding-bottom:36px;
+}
+
+nav {
+    background-color:#143B0E;
+    background-color: var(--pinkki);
+    padding: 8px 16px 8px 16px;
+    margin-top: 16px;
+    margin-bottom: 16px;
+}
+
+nav li {
+    display: inline;
+    margin-right: 16px;
+}
+
+.text-content {
+    margin-left: 32px;
+    margin-right: 32px;
+}
+
+.author {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #143B0E;
+}
+
+.date {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #143B0E;
+}
+
+footer {
+    font-family:cursive;
+    font-size: 16px;
+    background-color:#143B0E;
+    color:#ffffff;
+    text-align:center;
+    padding-top:16px;
+    padding-bottom:16px;
+    margin-top:50px;
+}
